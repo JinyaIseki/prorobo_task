@@ -2,6 +2,6 @@
 
 1976003 井関　仁哉
 
-ソースコード名はprorobo_task.ipynbです.
-実行結果の画像はimgsに入ってます.
+ソースコード名は　prorobo_task.ipynb　です.
+実行結果の画像は　imgs　に入れています.
 
